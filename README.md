@@ -36,12 +36,12 @@ transaction data.
      
    - 依前4大交易用途於各縣市的交易統計
      
-     <img src="https://github.com/tshihyi/real-estate-analysis/blob/main/image/city_top4_txn_reason_analysis.png" height= "270">
+     <img src="https://github.com/tshihyi/real-estate-analysis/blob/main/image/city_top4_txn_reason_analysis.png">
  
    ### Observation transaction purpose in each city
    - 交易年度從2006至2019, 大部分的交易集中在2012至2019
    
-     <img src="https://github.com/tshihyi/real-estate-analysis/blob/main/image/city_txn_reason_by_year.png" height= "250" width="350">
+     <img src="https://github.com/tshihyi/real-estate-analysis/blob/main/image/city_txn_reason_by_year.png" height= "250" width="370">
    
    ### Regression Analysis
    - 交易總價與面積呈現正相關
