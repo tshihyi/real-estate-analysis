@@ -13,7 +13,7 @@ transaction data.
 **Created RESTful API with FastAPI**
   - main.py
     - API source code
-    - [API docs](https://simple-api.tshihyi.repl.co/docs#/default/read_item_items__get)(Swagger UI)
+    - [API docs](https://tshihyi-api-docs.netlify.app/)(Swagger UI)
 
 **Spark to JSON workflow**
 
